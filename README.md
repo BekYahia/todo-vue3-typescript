@@ -1,7 +1,7 @@
 # todo-vue3-typescript
 
 ## Documentation
-[Documentation](https://bekyahia.github.io/vue3-with-typescript).
+[Documentation](https://bekyahia.github.io/blog/vue3-with-typescript).
 
 ## Project setup
 ```
